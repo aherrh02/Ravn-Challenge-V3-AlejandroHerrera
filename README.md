@@ -37,11 +37,11 @@ OkHttp Version 4.9.3
 The software works with 
 
 #Pictures
-![alt text](https://github.com/aherrh/Ravn-Challenge-V3-AlejandroHerrera/blob/main/blob/Screenshot%2022-05-01%230826.png?raw=true)
+![alt text](Screenshot%2022-05-01%230826.png?raw=true)
 
-![alt text](https://github.com/aherrh/Ravn-Challenge-V3-AlejandroHerrera/blob/main/blob/Screenshot%202022-05-01%20230640.png?raw=true)
+![alt text](Screenshot%202022-05-01%20230640.png?raw=true)
 
-![alt text](https://github.com/aherrh/Ravn-Challenge-V3-AlejandroHerrera/blob/main/blob/Screenshot%202022-05-01%20230806.png?raw=true)
+![alt text](Screenshot%202022-05-01%20230806.png?raw=true)
 
-![alt text](https://github.com/aherrh/Ravn-Challenge-V3-AlejandroHerrera/blob/main/blob/Screenshot%202022-05-01%20230844.png.png?raw=true)
+![alt text](Screenshot%202022-05-01%20230844.png.png?raw=true)
 
