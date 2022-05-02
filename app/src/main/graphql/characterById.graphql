@@ -1,0 +1,15 @@
+query characterById($id:ID) {
+    person(id:$id) {
+        id
+        name
+        eyeColor
+        hairColor
+        birthYear
+        skinColor
+        vehicleConnection {
+            vehicles {
+                name
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+query allPeoplePaginated($cursorId:String) {
+    allPeople(first: 5, after:$cursorId) {
+        people {
+            id
+            name
+            species {
+                name
+            }
+            homeworld {
+                name
+            }
+        }
+        pageInfo {
+            endCursor
+            hasNextPage
+        }
+    }
+}
